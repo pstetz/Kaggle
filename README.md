@@ -8,11 +8,3 @@ Code for Kaggle competitions
 
  - This project accompanies the Machine Learning tutorial by Dan B
 
-left off here:
-
-https://www.kaggle.com/dansbecker/partial-dependence-plots/
-
-entire course:
-
-https://www.kaggle.com/learn/machine-learning
-
