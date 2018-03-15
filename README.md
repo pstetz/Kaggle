@@ -12,3 +12,7 @@ left off here:
 
 https://www.kaggle.com/dansbecker/partial-dependence-plots/
 
+entire course:
+
+https://www.kaggle.com/learn/machine-learning
+
