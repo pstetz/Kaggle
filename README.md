@@ -8,3 +8,7 @@ Code for Kaggle competitions
 
  - This project accompanies the Machine Learning tutorial by Dan B
 
+## Project 2 - Neural Network tutorial
+
+ - Stanford's CS 231 was a lot of theory, want to check out Kaggle's approach
+
