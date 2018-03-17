@@ -12,3 +12,15 @@ Code for Kaggle competitions
 
  - Stanford's CS 231 was a lot of theory, want to check out Kaggle's approach
 
+ - Found under Kaggle Learn: Dan B's level 1 Neural Network course
+
+## Project 3 - Flower identification
+
+ - Trying to use basic NN to identify flowers
+
+ - Kaggle dataset name: Flowers Recognition by Alexander Mamaev
+
+## Project 4 - Bone Age
+
+ - Kaggle dataset name: RSNA Bone Age by Kevin Mader
+
