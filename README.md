@@ -29,3 +29,6 @@ Teaches the basics of Tensorflow and Keras.  Includes topics like transfer learn
 ## Aleksey Bilogur's Pandas course
 
 ## Aleksey Bilogur's Data Visualization course
+
+## Rachael Tatman's SQL course
+
