@@ -1,4 +1,5 @@
 data
 .DS_Store
 submissions
+.ipynb_checkpoints
 
