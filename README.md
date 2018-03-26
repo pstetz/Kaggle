@@ -1,30 +1,31 @@
 Code for Kaggle competitions
 
-## Project 0 - Titanic: Machine Learning from Disaster
+## (Project) Titanic: Machine Learning from Disaster
 
- - New to Kaggle and seems like a good project to start off
+This is a problem in logistic regression.  There isn't too much information given however it's surprising how accurate the models can get.
 
-## Project 1 - House Prices: Advanced Regression Techniques
+## (Project) House Prices: Advanced Regression Techniques
 
- - This project accompanies the Machine Learning tutorial by Dan B
+This is a problem in large numbers of variables and outliers.  The secret for a good score is to remove some outliers and to remove columns that may be duplicates of each other
 
-## Project 2 - Neural Network tutorial
+## (Dataset) Flowers Recognition by Alexander Mamaev
 
- - Stanford's CS 231 was a lot of theory, want to check out Kaggle's approach
+Trying to use basic NN to identify flowers.  I abandoned this because there is no leader board to give me an indication of how well I'm doing.  Once I'm accustomed to what I'm doing, I'll pick this back up.
 
- - Found under Kaggle Learn: Dan B's level 1 Neural Network course
+----
 
-## Project 3 - Flower identification
+# Tutorials (Found under Kaggle Learn)
 
- - Trying to use basic NN to identify flowers
+## Dan B's Machine Learning course
 
- - Kaggle dataset name: Flowers Recognition by Alexander Mamaev
+Teaches the basics of sklearn like Random Forests and pipeline along with other topics like data cleaning, one hot encoding, and dummy variables.
 
-## Project 4 - Bone Age
+## Dan B's Neural Network course
 
- - Kaggle dataset name: RSNA Bone Age by Kevin Mader
+Currently only level 1 is here because that is the only level availible
 
-## Project 5 - 
+Teaches the basics of Tensorflow and Keras.  Includes topics like transfer learning 
 
- - Kaggle Learn
+## Aleksey Bilogur's Pandas course
 
+## Aleksey Bilogur's Data Visualization course
