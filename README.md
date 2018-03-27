@@ -34,5 +34,5 @@ Teaches the basics of Tensorflow and Keras.  Includes topics like transfer learn
 
 I've actually decided against putting these solutions to my github.  I've done the tutorial, but I can't keep the data here to run everything locally.
 
-In it's place I'm putting a SQL assignment that my friend gave from his UC Berkeley DS100 class
+In it's place I'm putting a SQL assignment that my friend gave from his UC Berkeley DS100 class.  This course seems to not need the data locally, it can fetch it from a server.  I should figure out how to do that.
 
