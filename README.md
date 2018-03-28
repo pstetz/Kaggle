@@ -28,7 +28,7 @@ Teaches the basics of Tensorflow and Keras.  Includes topics like transfer learn
 
 ## Aleksey Bilogur's Pandas course
 
-## Aleksey Bilogur's Data Visualization course
+All the solutions are available however the data is not stored locally.  This folder is more of a reference to me on how to do certain pandas methods
 
 ## Rachael Tatman's SQL course
 
