@@ -1,4 +1,4 @@
-Code for Kaggle competitions
+# Code for Kaggle competitions
 
 ## (Project) [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
@@ -28,7 +28,7 @@ Predict which candidates will attend the intervew
 
 ----
 
-# Tutorials (Found under Kaggle Learn)
+# Tutorials (Found under [Kaggle Learn](https://www.kaggle.com/learn/overview))
 
 ## Dan B's [Machine Learning course](https://www.kaggle.com/learn/machine-learning)
 
