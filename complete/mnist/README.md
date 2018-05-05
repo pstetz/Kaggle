@@ -6,7 +6,7 @@
 
 The "Hello World" of Neural Networks.  The MNIST dataset are tens of thousands of handwritten integers in the range [0, 9].
 
-Included is an analysis notebook to get to know the data and a submission notebook that provided predictions.
+Included is an analysis notebook to get to know the data and a submission notebook that provides predictions.
 
 ### Submission
 
