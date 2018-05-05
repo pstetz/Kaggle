@@ -1,4 +1,6 @@
-# Ghouls
+| <img src="photos/ghoul.png" alt="Ghouls" style="float:left;"/> | 
+|:--:| 
+# Ghouls 
 
 Fun machine learning project for 3 year olds and me
 
