@@ -1,5 +1,7 @@
 # Code for Kaggle competitions
 
+----
+
 ## Complete
 
 - (Project) [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
@@ -9,6 +11,8 @@
 - (Project) [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo)
 
 - (Project) [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+
+----
 
 ## In Progress
 
@@ -23,7 +27,7 @@
 
 ----
 
-# Tutorials (Found under [Kaggle Learn](https://www.kaggle.com/learn/overview))
+## Tutorials (Found under [Kaggle Learn](https://www.kaggle.com/learn/overview))
 
 - Dan B's [Machine Learning course](https://www.kaggle.com/learn/machine-learning)
 
