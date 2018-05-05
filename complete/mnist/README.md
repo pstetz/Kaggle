@@ -1,6 +1,5 @@
 | <img src="photos/sample.png" alt="Sample MNIST digits" style="float:left;"/> | 
 |:--:| 
-| *Sample MNIST digits* |
 
 # High Score: 99.142% accuracy on Kaggle's test data
 
@@ -20,7 +19,6 @@ Supplementary analysis is provided that contains primary feature analysi and PCA
 
 | <img src="photos/features.png" alt="Most important MNIST features" style="float:left;"/> | 
 |:--:| 
-| *Most important MNIST features* |
 
 ### Logs
 
