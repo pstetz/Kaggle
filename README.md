@@ -1,7 +1,5 @@
 # Code for Kaggle competitions
 
-----
-
 ## Complete
 
 - (Project) [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
@@ -36,3 +34,5 @@
 - Aleksey Bilogur's [Pandas course](https://www.kaggle.com/learn/pandas)
 
 - UC Berkeley's DS100 [SQL course](https://github.com/DS-100/sp18/blob/master/hw/hw4/hw4.ipynb)
+
+----
