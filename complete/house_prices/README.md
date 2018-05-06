@@ -1,5 +1,11 @@
+| <img src="photos/house.png" alt="House prices as a function of area" style="float:left;"/> | 
+|:--:| 
+
 # High Score: 
 
+### Submission
+
+### Analysis
 
 ### Logs
 

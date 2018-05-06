@@ -1,5 +1,5 @@
 # Hello!
 
-### My most clean work is MNIST and ghouls if you are looking for nice samples of my work
+This folder is dedicated not only to challenges that I have participated in and performed reasonably well, but I have also included some analysis to go along with the data
 
-### The other projects I have here are currently in the process of being cleaned
+Although this folder says "complete" everything's a work in progress!  Until I'm underfitting and getting 100% I won't stop!
