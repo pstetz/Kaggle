@@ -16,11 +16,11 @@
 
 - (Project) [Doge Breed Identification](https://www.kaggle.com/c/dog-breed-identification)
 
+- (Project) [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge)
+
 - (Dataset) [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) by Alexander Mamaev
 
 - (Dataset) [Data Science for Good: Kiva Crowdfunding](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding) by Kiva
-
-- (Project) [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge)
 
 ----
 
