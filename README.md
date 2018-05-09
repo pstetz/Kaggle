@@ -14,14 +14,25 @@
 
 ## In Progress
 
-- (Project) [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
-
 - (Project) [Doge Breed Identification](https://www.kaggle.com/c/dog-breed-identification)
 
 - (Dataset) [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) by Alexander Mamaev
 
 - (Dataset) [Data Science for Good: Kiva Crowdfunding](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding) by Kiva
 
+- (Project) [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge)
+
+----
+
+## Future
+
+These projects either take up way too much memory or they are computationally expensive.  I will return to them once I have a GPU (or few).
+
+- (Project) [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
+
+- (Project) [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge)
+
+- (Project) [Santa Gift Matching Challenge](https://www.kaggle.com/c/santa-gift-matching)
 
 ----
 

@@ -9,7 +9,7 @@ Included is an analysis notebook to get to know the data and a submission notebo
 
 ### Submission
 
-A 10 layer Keras model is constructed with adam optimizer.  Below is my code for the Neural Network.  It is largely inspired by Kaggler Yassine Ghouzam's [work](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) however I believe I was able to improve upon it.  I added a couple more Convolution layers and increased the Dropout rate and I've found more success.
+A 10 layer Keras model is constructed with adam optimizer.  Below is my code for the Neural Network.  Initially there was inspiration from Kaggler Yassine Ghouzam's [work](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) however I believe I was able to evolve from it.  I added a couple more Convolution layers and increased the Dropout rate and I've found more success.
 
 | <img src="photos/nn_code.png" alt="My NN code" style="float:left;"/> | 
 |:--:| 
