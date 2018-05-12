@@ -2,13 +2,13 @@
 
 ## Complete
 
-- (Project) [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- (Project) Titanic: Machine Learning from Disaster ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/titanic)) ([Kaggle overview](https://www.kaggle.com/c/titanic))
 
-- (Project) [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- (Project) House Prices: Advanced Regression Techniques ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/house_prices)) ([Kaggle overview](https://www.kaggle.com/c/house-prices-advanced-regression-techniques))
 
-- (Project) [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo)
+- (Project) Ghouls, Goblins, and Ghosts... Boo! ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/ghouls)) ([Kaggle overview](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo))
 
-- (Project) [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+- (Project) Digit Recognizer ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mnist)) ([Kaggle overview](https://www.kaggle.com/c/digit-recognizer))
 
 ----
 
