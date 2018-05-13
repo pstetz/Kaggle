@@ -1,5 +1,6 @@
 | <img src="photos/carpool.png" alt="Counties with the highest number of carpoolers" style="float:left;"/> | 
 |:--:| 
+| *More Georgia and Texas than I was expecting* | 
 
 # US Census Data ([Kaggle link](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
