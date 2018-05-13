@@ -24,6 +24,8 @@
 
 - (Dataset) Data Science for Good: Kiva Crowdfunding by Kiva ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/kiva)) ([Kaggle overview](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding))
 
+- (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
+
 
 ----
 
