@@ -14,6 +14,8 @@ The analysis is contained in different folders to try and stay organized
 
 - race_focus: Focuses on the race columns.  Which State or County has the greatest representation of that race?  How does unemployment match up between the different races?
 
+- numeric_focus: Ignores labels like race, County, and State
+
 - fun: A lot of misc relationships and facts I didn't want to keep out.  What County has the longest name?
 
 - general_focus: This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
