@@ -32,7 +32,7 @@ Focuses mostly on how relationships between States.  What state is the most popu
 
 Focuses on the race columns.  Which State or County has the greatest representation of that race?  How does unemployment match up between the different races?
 
-| <img src="photos/race_county_1.png" alt="Highest Black population" style="float:left;"/><img src="photos/race_county_2.png" alt="Highest Hispanic population" style="float:right;"/> | 
+| <img src="photos/race_county.png" alt="Highest Black and Hispanic populations" style="float:left;"/> | 
 |:--:| 
 | *Highest Black and Hispanic populations (have you ever heard of Cook, Illinois?)* | 
 
