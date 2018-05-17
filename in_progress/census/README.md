@@ -10,11 +10,19 @@ The analysis is contained in different folders to try and stay organized.
 
 # Table of Contents
 
-1. [State Focus](#state)
-2. [Racial Focus](#race)
-3. [Numeric Focus](#numeric)
-4. [Focus on Fun!](#fun)
-5. [General Focus](#general)
+1.) [Introduction](#intro)
+2.) [State Focus](#state)
+3.) [Racial Focus](#race)
+4.) [Numeric Focus](#numeric)
+5.) [Focus on Fun!](#fun)
+6.) [General Focus](#general)
+
+<a name="intro"></a>
+## Introduction
+
+| <img src="photos/census.png" alt="Census form" style="float:left;"/> | 
+|:--:| 
+| *The census form given during 2010* | 
 
 <a name="state"></a>
 ## State Focus
