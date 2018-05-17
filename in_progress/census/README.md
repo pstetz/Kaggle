@@ -11,18 +11,63 @@ The analysis is contained in different folders to try and stay organized.
 # Table of Contents
 
 1.) [Introduction](#intro)
+
+	- [Background](#background)
+
+	- [Tracts](#tracts)
+
+	- [Questionnaire](#questionnaire)
+
+	- [Dataset](#dataset)
+
 2.) [State Focus](#state)
+
 3.) [Racial Focus](#race)
+
 4.) [Numeric Focus](#numeric)
+
 5.) [Focus on Fun!](#fun)
+
 6.) [General Focus](#general)
 
 <a name="intro"></a>
 ## Introduction
 
-| <img src="photos/census.png" alt="Census form" style="float:left;"/> | 
+<a name="background"></a>
+#### Background
+
+Every 10 years, the US government conducts a survey of the entire nation to get.
+
+<a name="tracts"></a>
+#### Tracts
+
+Tracts are.  They range from _ to _ people
+
+<a name="questionnaire"></a>
+#### Questionnaire
+
+| <img src="photos/census.png" alt="2010 Census form" style="float:left;"/> | 
 |:--:| 
-| *The census form given during 2010* | 
+| *The 2010 Census form ([photo](https://www.census.gov/history/pdf/2010questionnaire.pdf))* | 
+
+<a name="dataset"></a>
+#### Dataset
+
+In the exact words of Kaggle user [Muon Neutrino](https://www.kaggle.com/muonneutrino), the individual who hosts this [dataset](https://www.kaggle.com/muonneutrino/us-census-demographic-data) on Kaggle
+
+"""
+
+The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The full datasets and much more can be found at the American Factfinder [website](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml). Currently, I include two data files:
+
+    1.) census_tract.csv: Data for each census tract in the US, including DC and Puerto Rico.
+    1.) census_county.csv: Data for each county or county equivalent in the US, including DC and Puerto Rico.
+
+The two files have the same structure, with just a small difference in the name of the id column. Counties are political subdivisions, and the boundaries of some have been set for centuries. Census tracts, however, are defined by the census bureau and will have a much more consistent size. A typical census tract has around 5000 or so residents.
+
+The Census Bureau updates the estimates approximately every year. At least some of the 2016 data is already available, so I will likely update this in the near future.
+
+"""
+
 
 <a name="state"></a>
 ## State Focus
