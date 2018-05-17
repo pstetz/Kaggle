@@ -6,16 +6,37 @@
 
 This is a Dataset of the 2015 US Census data estimate.  Since there is no competition, this folder is just an exploration of the data.
 
-### Analysis
+The analysis is contained in different folders to try and stay organized.
 
-The analysis is contained in different folders to try and stay organized
+# Table of Contents
 
-- state_focus:  Focuses mostly on how relationships between States.  What state is the most populated?  Which state has the lowest unemployment?
+1. [State Focus](#state)
+2. [Racial Focus](#race)
+3. [Numeric Focus](#numeric)
+4. [Focus on Fun!](#fun)
+5. [General Focus](#general)
 
-- race_focus: Focuses on the race columns.  Which State or County has the greatest representation of that race?  How does unemployment match up between the different races?
+<a name="state"></a>
+## State Focus
 
-- numeric_focus: Ignores labels like race, County, and State
+Focuses mostly on how relationships between States.  What state is the most populated?  Which state has the lowest unemployment?
 
-- fun: A lot of misc relationships and facts I didn't want to keep out.  What County has the longest name?
+<a name="race"></a>
+## Racial Focus
 
-- general_focus: This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
+Focuses on the race columns.  Which State or County has the greatest representation of that race?  How does unemployment match up between the different races?
+
+<a name="numeric"></a>
+## Numeric Focus
+
+Ignores labels like race, County, and State
+
+<a name="fun"></a>
+## Focus on Fun!
+
+A lot of misc relationships and facts I didn't want to keep out.  What County has the longest name?
+
+<a name="general"></a>
+## General Focus
+
+This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
