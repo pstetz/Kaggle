@@ -12,13 +12,13 @@ The analysis is contained in different folders to try and stay organized.
 
 1.) [Introduction](#intro)
 
-	- [Background](#background)
+   - [Background](#background)
 
-	- [Tracts](#tracts)
+   - [Tracts](#tracts)
 
-	- [Questionnaire](#questionnaire)
+   - [Questionnaire](#questionnaire)
 
-	- [Dataset](#dataset)
+   - [Dataset](#dataset)
 
 2.) [State Focus](#state)
 
