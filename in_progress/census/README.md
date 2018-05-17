@@ -49,7 +49,11 @@ Ignores labels like race, County, and State
 |:--:| 
 | *Distribution of transportation methods by commute time* | 
 
-| <img src="photos/income_dist.png" alt="Distribution of income" style="float:left;"/> | 
+| <img src="photos/commute_kde.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
+|:--:| 
+| *Distribution of commute times* | 
+
+| <img src="photos/income_kde.png" alt="Distribution of income" style="float:left;"/> | 
 |:--:| 
 | *Distribution of income* | 
 
