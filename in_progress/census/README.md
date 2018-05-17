@@ -21,6 +21,12 @@ The analysis is contained in different folders to try and stay organized.
 
 Focuses mostly on how relationships between States.  What state is the most populated?  Which state has the lowest unemployment?
 
+
+| <img src="photos/state_unemployment.png" alt="States with the highest unemployment" style="float:left;"/> | 
+|:--:| 
+| *This data was collected before Hurrican Maria* | 
+
+
 <a name="race"></a>
 ## Racial Focus
 
@@ -31,10 +37,30 @@ Focuses on the race columns.  Which State or County has the greatest representat
 
 Ignores labels like race, County, and State
 
+| <img src="photos/career_dist.png" alt="Distribution of careers based on income" style="float:left;"/> | 
+|:--:| 
+| *Distribution of careers based on income* | 
+
+| <img src="photos/sector_dist.png" alt="Distribution of sector work based on income" style="float:left;"/> | 
+|:--:| 
+| *Distribution of sector work based on income* | 
+
+| <img src="photos/commute_dist.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
+|:--:| 
+| *Distribution of transportation methods by commute time* | 
+
+| <img src="photos/income_dist.png" alt="Distribution of income" style="float:left;"/> | 
+|:--:| 
+| *Distribution of income* | 
+
 <a name="fun"></a>
 ## Focus on Fun!
 
 A lot of misc relationships and facts I didn't want to keep out.  What County has the longest name?
+
+| <img src="photos/selected_counties.png" alt="Famous counties to the Bay Area/World" style="float:left;"/> | 
+|:--:| 
+| *Famous counties of the Bay Area and California* | 
 
 <a name="general"></a>
 ## General Focus
