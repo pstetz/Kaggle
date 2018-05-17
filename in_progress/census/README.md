@@ -26,6 +26,10 @@ The analysis is contained in different folders to try and stay organized.
 
 4.) [Numeric Focus](#numeric)
 
+   - [Income](#nu_income)
+
+   - [Commute times](#nu_commute)
+
 5.) [Focus on Fun!](#fun)
 
 6.) [General Focus](#general)
@@ -92,32 +96,48 @@ Focuses on the race columns.  Which State or County has the greatest representat
 <a name="numeric"></a>
 ## Numeric Focus
 
-Ignores labels like race, County, and State
+This notebook looks at the easily quantifiable columns and ignores labels like race, County, and State.
 
-| <img src="photos/career_dist.png" alt="Distribution of careers based on income" style="float:left;"/> | 
-|:--:| 
-| *Distribution of careers based on income* | 
+<a name="nu_income"></a>
+#### Income
 
-| <img src="photos/sector_dist.png" alt="Distribution of sector work based on income" style="float:left;"/> | 
-|:--:| 
-| *Distribution of sector work based on income* | 
-
-| <img src="photos/commute_dist.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
-|:--:| 
-| *Distribution of transportation methods by commute time* | 
-
-| <img src="photos/commute_kde.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
-|:--:| 
-| *Distribution of commute times* | 
+To get a sense of 
 
 | <img src="photos/income_kde.png" alt="Distribution of income" style="float:left;"/> | 
 |:--:| 
 | *Distribution of income* | 
 
+Different
+
+| <img src="photos/career_dist.png" alt="Distribution of careers based on income" style="float:left;"/> | 
+|:--:| 
+| *Distribution of careers based on income* | 
+
+Furthermore we can see that the counties on the different ends of income have a different
+
+| <img src="photos/sector_dist.png" alt="Distribution of sector work based on income" style="float:left;"/> | 
+|:--:| 
+| *Distribution of sector work based on income* | 
+
+<a name="nu_comute"></a>
+#### Commute times
+
+The
+
+| <img src="photos/commute_kde.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
+|:--:| 
+| *Distribution of commute times* |
+
+It would 
+
+| <img src="photos/commute_dist.png" alt="Distribution of transportation methods by commute time" style="float:left;"/> | 
+|:--:| 
+| *Distribution of transportation methods by commute time* |  
+
 <a name="fun"></a>
 ## Focus on Fun!
 
-A lot of misc relationships and facts I didn't want to keep out.  What County has the longest name?
+This notebook includes a lot of misc relationships and facts I didn't want to keep out.  The notebook contains a script that analyzes different selected counties.  The below graph looks at the counties with which I'm most familar.
 
 | <img src="photos/selected_counties.png" alt="Famous counties to the Bay Area/World" style="float:left;"/> | 
 |:--:| 
