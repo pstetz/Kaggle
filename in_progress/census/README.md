@@ -89,6 +89,14 @@ The Census Bureau updates the estimates approximately every year. At least some 
 
 Focuses mostly on how relationships between States.  What state is the most populated?  Which state has the lowest unemployment?
 
+A natural start would be to explore how the states and counties differ from one another.  What are the wealthiest counties?  What State has the highest unemployment?
+
+This however isn't too interesting!  State's are an indirect umbrella of other factors that are difficult to analyze.  For instance does California have a high number of people biking to work because of legislation creating bike lanes?  Or is because of California's focus on being healthy?  Then you can ask why are people from California so healthy, is it because of our huge Argicultural economy?  All the information contained in a name is very messy and can lead people to draw incorrect inferences.  xI don't mean to pull a Spock, but numeric data is unamibgious.
+
+Maybe you don't agree with my perhaps above, but hopefully you understand we have to be careful about making assumptions and drawing inferences when we are looking at race.
+
+What would be interesting is asking questions such as how does small population income compare to large population income?  Is there any correlation between high number of residents walking to work and income.  How do the numbers of WorkAtHome change with MeanCommute?
+
 
 | <img src="photos/state_unemployment.png" alt="States with the highest unemployment" style="float:left;"/> | 
 |:--:| 
