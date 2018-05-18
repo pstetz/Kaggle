@@ -36,6 +36,8 @@ The analysis is contained in different folders to try and stay organized.  For a
 
 7.) [Resources](#resources)
 
+8.) [Criticism](#criticism)
+
 <a name="intro"></a>
 # Introduction
 
@@ -48,6 +50,7 @@ In 2005, the American Community Survey (ACS) was founded after many years of dem
 
 The purpose of this data is somewhat different and has sparked [some controversy](https://www.lewrockwell.com/2004/07/ron-paul/its-none-of-your-business/) (to fellow Americans: take a guess who!).  The 10 year Census is a codified procedure that goes back to the forefathers and described in Article I, Section II of the US Constitution.  It's purpose is purely for redistricting and keeping the Electoral College updated with population shifts.  The ACS
 
+As al
 
 
 <a name="tracts"></a>
@@ -162,3 +165,10 @@ This notebook focuses on the data in general.  What are the missing values?  Do 
 - The American Community Survey website ([link](https://www.census.gov/programs-surveys/acs/))
 - The American Community Survey Information Guide ([link](https://www.census.gov/programs-surveys/acs/about/information-guide.html))
 - The dataset for this project ([link](https://www.kaggle.com/muonneutrino/us-census-demographic-data)).  Thank you again to [MuonNeutrino](https://www.kaggle.com/muonneutrino) and [Kaggle](https://www.kaggle.com/)
+
+<a name="critism"></a>
+# Criticism
+
+- How accurate is the data?  Many people flat out refuse to answer any [questions](https://www.youtube.com/watch?v=bYwdOxOBwgM).
+- The estimated budget for 2019 is $3.8 billion ([link to census budget](https://www2.census.gov/about/budget/2019-Budget-Infographic-Bureau-Summary.pdf)).
+- Here is a [sample form](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2018/quest18.pdf) from 2018, you can decide how invasive the questions are for yourself
