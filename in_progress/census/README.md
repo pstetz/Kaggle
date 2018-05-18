@@ -8,6 +8,11 @@ This is a folder contains an exploration of the 2015 American Community Survey e
 
 The analysis is contained in different folders to try and stay organized.  For an overview of each notebook, see items 2-6 in the Table of Contents below.
 
+<button onclick="console.log('hello')">Click me</button>
+
+
+<div id="hello" class="">Hello!</div>
+
 # Table of Contents
 
 1.) [Introduction](#intro)
