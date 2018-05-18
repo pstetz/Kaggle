@@ -8,6 +8,7 @@ This is a folder contains an exploration of the 2015 American Community Survey e
 
 The analysis is contained in different folders to try and stay organized.  For an overview of each notebook, see items 2-6 in the Table of Contents below.
 
+<a name="toc"></a>
 # Table of Contents
 
 1.) [Introduction](#intro)
@@ -38,9 +39,13 @@ The analysis is contained in different folders to try and stay organized.  For a
 
 8.) [Criticism](#criticism)
 
+[^](#toc)
+
 <a name="intro"></a>
 # Introduction
 
+
+[^](#toc)
 <a name="background"></a>
 ### Background
 
@@ -53,11 +58,13 @@ The purpose of this data is somewhat different and has sparked [some controversy
 As al
 
 
+[^](#toc)
 <a name="tracts"></a>
 ### Tracts
 
 Tracts are.  They range from 3 to 53,812 people but are generally around 4,000 people
 
+[^](#toc)
 <a name="questionnaire"></a>
 ### Questionnaire
 
@@ -65,6 +72,7 @@ Tracts are.  They range from 3 to 53,812 people but are generally around 4,000 p
 |:--:| 
 | *The 2010 Census form ([photo](https://www.census.gov/history/pdf/2010questionnaire.pdf))* | 
 
+[^](#toc)
 <a name="dataset"></a>
 ### Dataset
 
@@ -83,7 +91,7 @@ The Census Bureau updates the estimates approximately every year. At least some 
 
 """
 
-
+[^](#toc)
 <a name="state"></a>
 # State Focus
 
@@ -94,7 +102,7 @@ Focuses mostly on how relationships between States.  What state is the most popu
 |:--:| 
 | *This data was collected before Hurrican Maria* | 
 
-
+[^](#toc)
 <a name="race"></a>
 # Racial Focus
 
@@ -104,10 +112,13 @@ Focuses on the race columns.  Which State or County has the greatest representat
 |:--:| 
 | *Highest Black and Hispanic populations (have you ever heard of Cook, Illinois?)* | 
 
+[^](#toc)
 <a name="numeric"></a>
 # Numeric Focus
 
 This notebook looks at the easily quantifiable columns and ignores labels like race, County, and State.
+
+[^](#toc)
 
 <a name="nu_income"></a>
 ### Income
@@ -130,6 +141,8 @@ Furthermore we can see that the counties on the different ends of income have a 
 |:--:| 
 | *Distribution of sector work based on income* | 
 
+
+[^](#toc)
 <a name="nu_comute"></a>
 ### Commute times
 
