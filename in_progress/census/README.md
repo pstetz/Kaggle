@@ -4,9 +4,9 @@
 
 # US Census Data ([Kaggle link](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
-This is a Dataset of the 2015 US Census data estimate.  Since there is no competition, this folder is just an exploration of the data.
+This is a folder contains an exploration of the 2015 American Community Survey estimate.
 
-The analysis is contained in different folders to try and stay organized.
+The analysis is contained in different folders to try and stay organized.  For an overview of each notebook, see items 2-6 in the Table of Contents below.
 
 # Table of Contents
 
@@ -40,12 +40,16 @@ The analysis is contained in different folders to try and stay organized.
 <a name="background"></a>
 #### Background
 
-Every 10 years, the US government conducts a survey of the entire nation to get.
+Every 10 years, the US government conducts a survey of the entire nation to understand the current distribution of the population.  Every citizen in the States receives a questionaire (see [questionaire below](#questionnaire)).
+
+The purpose of having a Census.
+
+
 
 <a name="tracts"></a>
 #### Tracts
 
-Tracts are.  They range from _ to _ people
+Tracts are.  They range from 3 to 53,812 people but are generally around 4,000 people
 
 <a name="questionnaire"></a>
 #### Questionnaire
