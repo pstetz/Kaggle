@@ -21,19 +21,19 @@ The analysis is contained in different folders to try and stay organized.  For a
 
    - [Dataset](#dataset)
 
-2.) [State Focus](#state)
+2.) [General Focus](#general)
 
-3.) [Racial Focus](#race)
+3.) [State Focus](#state)
 
-4.) [Numeric Focus](#numeric)
+4.) [Racial Focus](#race)
+
+5.) [Numeric Focus](#numeric)
 
    - [Income](#nu_income)
 
    - [Commute times](#nu_commute)
 
-5.) [Focus on Fun!](#fun)
-
-6.) [General Focus](#general)
+6.) [Focus on Fun!](#fun)
 
 7.) [Resources](#resources)
 
@@ -83,6 +83,11 @@ The two files have the same structure, with just a small difference in the name 
 The Census Bureau updates the estimates approximately every year. At least some of the 2016 data is already available, so I will likely update this in the near future.
 
 """
+
+<a name="general"></a>
+# [(^top)](#toc) General Focus
+
+This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
 
 <a name="state"></a>
 # [(^top)](#toc) State Focus
@@ -162,11 +167,6 @@ This notebook includes a lot of misc relationships and facts I didn't want to ke
 | <img src="photos/selected_counties.png" alt="Famous counties to the Bay Area/World" style="float:left;"/> | 
 |:--:| 
 | *Famous counties of the Bay Area and California* | 
-
-<a name="general"></a>
-# [(^top)](#toc) General Focus
-
-This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
 
 <a name="resources"></a>
 # [(^top)](#toc) Resources
