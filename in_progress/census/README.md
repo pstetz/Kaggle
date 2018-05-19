@@ -40,10 +40,10 @@ The analysis is contained in different folders to try and stay organized.  For a
 8.) [Criticism](#criticism)
 
 <a name="intro"></a>
-# [(^top)](#toc) Introduction
+# [^](#toc) Introduction
 
 <a name="background"></a>
-### [(^top)](#toc) Background
+### [^](#toc) Background
 
 Every 10 years, the US government conducts a survey of the entire nation to understand the current distribution of the population.  Every citizen in the States receives a questionaire (see [questionaire below](#questionnaire)).
 
@@ -54,12 +54,12 @@ The purpose of this data is somewhat different and has sparked [some controversy
 As al
 
 <a name="tracts"></a>
-### [(^top)](#toc) Tracts
+### [^](#toc) Tracts
 
 Tracts are.  They range from 3 to 53,812 people but are generally around 4,000 people
 
 <a name="questionnaire"></a>
-### [(^top)](#toc) Questionnaire
+### [^](#toc) Questionnaire
 
 | <img src="photos/census.png" alt="2010 Census form" style="float:left;"/> | 
 |:--:| 
@@ -67,7 +67,7 @@ Tracts are.  They range from 3 to 53,812 people but are generally around 4,000 p
 
 
 <a name="dataset"></a>
-### [(^top)](#toc) Dataset
+### [^](#toc) Dataset
 
 In the exact words of Kaggle user [Muon Neutrino](https://www.kaggle.com/muonneutrino), the individual who hosts this [dataset](https://www.kaggle.com/muonneutrino/us-census-demographic-data) on Kaggle
 
@@ -85,12 +85,12 @@ The Census Bureau updates the estimates approximately every year. At least some 
 """
 
 <a name="general"></a>
-# [(^top)](#toc) General Focus
+# [^](#toc) General Focus
 
 This notebook focuses on the data in general.  What are the missing values?  Do all percents add up to 100?
 
 <a name="state"></a>
-# [(^top)](#toc) State Focus
+# [^](#toc) State Focus
 
 Focuses mostly on how relationships between States.  What state is the most populated?  Which state has the lowest unemployment?
 
@@ -108,7 +108,7 @@ What would be interesting is asking questions such as how does small population 
 | *This data was collected before Hurrican Maria* | 
 
 <a name="race"></a>
-# [(^top)](#toc) Racial Focus
+# [^](#toc) Racial Focus
 
 Focuses on the race columns.  Which State or County has the greatest representation of that race?  How does unemployment match up between the different races?
 
@@ -117,13 +117,13 @@ Focuses on the race columns.  Which State or County has the greatest representat
 | *Highest Black and Hispanic populations (have you ever heard of Cook, Illinois?)* | 
 
 <a name="numeric"></a>
-# [(^top)](#toc) Numeric Focus
+# [^](#toc) Numeric Focus
 
 This notebook looks at the easily quantifiable columns and ignores labels like race, County, and State.
 
 
 <a name="nu_income"></a>
-### [(^top)](#toc) Income
+### [^](#toc) Income
 
 To get a sense of 
 
@@ -145,7 +145,7 @@ Furthermore we can see that the counties on the different ends of income have a 
 
 
 <a name="nu_comute"></a>
-### [(^top)](#toc) Commute times
+### [^](#toc) Commute times
 
 The
 
@@ -160,7 +160,7 @@ It would
 | *Distribution of transportation methods by commute time* |  
 
 <a name="fun"></a>
-# [^](#toc) <u>Focus on Fun!</u>
+# [^](#toc) Focus on Fun!
 
 This notebook includes a lot of misc relationships and facts I didn't want to keep out.  The notebook contains a script that analyzes different selected counties.  The below graph looks at the counties with which I'm most familar.
 
@@ -169,14 +169,14 @@ This notebook includes a lot of misc relationships and facts I didn't want to ke
 | *Famous counties of the Bay Area and California* | 
 
 <a name="resources"></a>
-# [^](#toc) <u>Resources</u>
+# [^](#toc) Resources
 
 - The American Community Survey website ([link](https://www.census.gov/programs-surveys/acs/))
 - The American Community Survey Information Guide ([link](https://www.census.gov/programs-surveys/acs/about/information-guide.html))
 - The dataset for this project ([link](https://www.kaggle.com/muonneutrino/us-census-demographic-data)).  Thank you again to [MuonNeutrino](https://www.kaggle.com/muonneutrino) and [Kaggle](https://www.kaggle.com/)
 
 <a name="critism"></a>
-# [^](#toc) <u>Criticism</u>
+# [^](#toc) Criticism
 
 - How accurate is the data?  Many people flat out refuse to answer any [questions](https://www.youtube.com/watch?v=bYwdOxOBwgM).
 - The estimated budget for 2019 is $3.8 billion ([link to census budget](https://www2.census.gov/about/budget/2019-Budget-Infographic-Bureau-Summary.pdf)).
