@@ -160,7 +160,7 @@ It would
 | *Distribution of transportation methods by commute time* |  
 
 <a name="fun"></a>
-# [(^top)](#toc) Focus on Fun!
+# [^](#toc) <u>Focus on Fun!</u>
 
 This notebook includes a lot of misc relationships and facts I didn't want to keep out.  The notebook contains a script that analyzes different selected counties.  The below graph looks at the counties with which I'm most familar.
 
@@ -169,14 +169,14 @@ This notebook includes a lot of misc relationships and facts I didn't want to ke
 | *Famous counties of the Bay Area and California* | 
 
 <a name="resources"></a>
-# [(^top)](#toc) Resources
+# [^](#toc) <u>Resources</u>
 
 - The American Community Survey website ([link](https://www.census.gov/programs-surveys/acs/))
 - The American Community Survey Information Guide ([link](https://www.census.gov/programs-surveys/acs/about/information-guide.html))
 - The dataset for this project ([link](https://www.kaggle.com/muonneutrino/us-census-demographic-data)).  Thank you again to [MuonNeutrino](https://www.kaggle.com/muonneutrino) and [Kaggle](https://www.kaggle.com/)
 
 <a name="critism"></a>
-# [(^top)](#toc) Criticism
+# [^](#toc) <u>Criticism</u>
 
 - How accurate is the data?  Many people flat out refuse to answer any [questions](https://www.youtube.com/watch?v=bYwdOxOBwgM).
 - The estimated budget for 2019 is $3.8 billion ([link to census budget](https://www2.census.gov/about/budget/2019-Budget-Infographic-Bureau-Summary.pdf)).
