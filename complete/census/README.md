@@ -159,6 +159,8 @@ IMAGE
 <a name="unemply_pov"></a>
 ### [^](#toc) Unemployment v. Poverty
 
+IMAGE
+
 There clearly is a very strong relationship here.  Our intuition is further bolstered by p = 0 indicating low probability for the null hypothesis (the two variables are connected in some way).  In addition, the Pearson correlation coeffient is close to 1 meaning the variables have a positive relationship (larger values of Unemployment are more likely with higher values of Poverty).
 
 This is just what we'd expect from these two variables.
@@ -169,8 +171,7 @@ This is just what we'd expect from these two variables.
 
 IMAGE
 
-
-<a name="nu_comute"></a>
+<a name="nu_commute"></a>
 ### [^](#toc) <u>Commute times</u>
 
 IMAGE
@@ -201,18 +202,20 @@ Pulaski, Georgia contains an all women prison ([link](http://www.dcor.state.ga.u
 
 In addition to women I expect any population on the older side will skew toward more women since women tend to live longer than men.
 
+IMAGE
+
 #### Fun facts!
 
 - Chillicothe, county seat of Livingston - Missouri, was the first place to introduce commericial bread slicing.  And has since led the standard in "best thing"
 - The Lorton, Virginia Wikipedia page has a section for [famous prisoners](https://en.wikipedia.org/wiki/Lorton_Reformatory)
 
 
-IMAGE
-
 <a name="fun_selected"></a>
 ## [^](#toc) Selected Counties
 
 Finally to end this data exploration I included a chance to compare places you've lived!  I've been in the Bay Area most of my life so I choose some counties that I was interested to compare.
+
+IMAGE
 
 A few things to note
 
@@ -237,11 +240,8 @@ A few things to note
 # [^](#toc) ACS Criticism
 
 - To my fellow Americans: take a guess who would be first! ([link](https://www.lewrockwell.com/2004/07/ron-paul/its-none-of-your-business/))
-
 - I'm worried how often people refuse to answer questions and how that affects data quality ([see example](https://www.youtube.com/watch?v=bYwdOxOBwgM)).
-
 - The estimated budget for 2019 is $3.8 billion ([link to census budget](https://www2.census.gov/about/budget/2019-Budget-Infographic-Bureau-Summary.pdf)).
-
 - Take a look at the [sample questionnaire](https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2018/quest18.pdf) from 2018 and decide if the questons are too invasive.
 
 

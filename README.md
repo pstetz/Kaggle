@@ -2,6 +2,8 @@
 
 ## Complete
 
+- (Project) Shelter Animal Outcomes ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/shelter)) ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
+
 - (Project) Titanic: Machine Learning from Disaster ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/titanic)) ([Kaggle overview](https://www.kaggle.com/c/titanic))
 
 - (Project) House Prices: Advanced Regression Techniques ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/house_prices)) ([Kaggle overview](https://www.kaggle.com/c/house-prices-advanced-regression-techniques))
@@ -19,8 +21,6 @@
 - (Project) Doge Breed Identification ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/doge)) ([Kaggle overview](https://www.kaggle.com/c/dog-breed-identification))
 
 - (Project) Amazon.com - Employee Access Challenge ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/amazon_employee)) ([Kaggle overview](https://www.kaggle.com/c/amazon-employee-access-challenge))
-
-- (Project) Shelter Animal Outcomes ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/shelter)) ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
 
 - (Dataset) Flowers Recognition by Alexander Mamaev ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/flowers)) ([Kaggle overview](https://www.kaggle.com/alxmamaev/flowers-recognition))
 
