@@ -1,4 +1,4 @@
-| <img src="photos/carpool.png" alt="Counties with the highest number of carpoolers" style="float:left;"/> | 
+| <img src="photos/README/carpool.png" alt="Counties with the highest number of carpoolers" style="float:left;"/> | 
 |:--:| 
 | *More Georgia and Texas than I was expecting* | 
 
@@ -97,7 +97,8 @@ The ACS is completed in Tracts.  One or many tracts make up a County however, on
 
 To get a sense of scale, they can range from 3 to 53,812 people but are generally around 4,000 people. I realize that's a huge range, but hopefully the plots below will help!
 
-IMAGE
+| <img src="photos/README/tract.png" alt="Tract populations" style="float:left;"/> | 
+|:--:| 
 
 <a name="counties"></a>
 ### [^](#toc) Counties
@@ -111,7 +112,8 @@ For the purposes of this notebook it may help to think of Counties as just a col
 
 Okay, we all know what a State it, but let's see some visualizations anyways
 
-IMAGE
+| <img src="photos/README/state.png" alt="State populations" style="float:left;"/> | 
+|:--:| 
 
 ---
 
@@ -128,6 +130,9 @@ This looks at missing values and includes a correlation map between all variable
 <a name="st_pop"></a>
 ### [^](#toc) Population
 
+| <img src="photos/README/county_pop.png" alt="County populations" style="float:left;"/> | 
+|:--:| 
+
 The results seem to line up nicely with Wikipedia's page ([link](https://en.wikipedia.org/wiki/County_statistics_of_the_United_States#Nationwide_population_extremes)), this is to be expected since the Wikipedia is using the 2016 estimate provided by the US Census bureau.
 
 To others that may not know...
@@ -143,13 +148,14 @@ To others that may not know...
 <a name="st_unemploy"></a>
 ### [^](#toc) <u>Unemployment</u>
 
+| <img src="photos/README/unemploy.png" alt="State Unemployment" style="float:left;"/> | 
+|:--:| 
+
 I never knew Puerto Rico is suffering so much.  We'll see later that Puerto Rico has the lowest Income and the highest rate of poverty too.
 
 On the bright side, North Datoka has low unemployment because of fracking ([article link](http://fortune.com/north-dakota-fracking/)).
 
 To refresh your understanding of Poe's law, see this [link](https://en.wikipedia.org/wiki/Poe%27s_law).
-
-IMAGE
 
 ---
 
@@ -159,7 +165,8 @@ IMAGE
 <a name="unemply_pov"></a>
 ### [^](#toc) Unemployment v. Poverty
 
-IMAGE
+| <img src="photos/README/pov_unemploy.png" alt="Poverty v. Unemployment" style="float:left;"/> | 
+|:--:| 
 
 There clearly is a very strong relationship here.  Our intuition is further bolstered by p = 0 indicating low probability for the null hypothesis (the two variables are connected in some way).  In addition, the Pearson correlation coeffient is close to 1 meaning the variables have a positive relationship (larger values of Unemployment are more likely with higher values of Poverty).
 
@@ -168,19 +175,23 @@ This is just what we'd expect from these two variables.
 <a name="nu_income"></a>
 ### [^](#toc) <u>Income</u>
 
-
-IMAGE
+| <img src="photos/README/income_career_dist.png" alt="County populations" style="float:left;"/> | 
+|:--:| 
 
 <a name="nu_commute"></a>
 ### [^](#toc) <u>Commute times</u>
 
-IMAGE
+| <img src="photos/README/commute_dist.png" alt="County populations" style="float:left;"/> | 
+|:--:| 
 
 <a name="fun"></a>
 # [^](#toc) Focus on Fun!
 
 <a name="fun_gender"></a>
 ### [^](#toc) Gender imbalance
+
+| <img src="photos/README/gender_ratio.png" alt="Gender ratios" style="float:left;"/> | 
+|:--:| 
 
 #### General comments
 
@@ -202,8 +213,6 @@ Pulaski, Georgia contains an all women prison ([link](http://www.dcor.state.ga.u
 
 In addition to women I expect any population on the older side will skew toward more women since women tend to live longer than men.
 
-IMAGE
-
 #### Fun facts!
 
 - Chillicothe, county seat of Livingston - Missouri, was the first place to introduce commericial bread slicing.  And has since led the standard in "best thing"
@@ -215,13 +224,14 @@ IMAGE
 
 Finally to end this data exploration I included a chance to compare places you've lived!  I've been in the Bay Area most of my life so I choose some counties that I was interested to compare.
 
-IMAGE
+| <img src="photos/README/select_county.png" alt="Selected counties" style="float:left;"/> | 
+|:--:| 
 
 A few things to note
 
 - Contra Costa has cheaper housing than Alameda, SF, so it makes sense that it's commute is long (live in Contra Costra, commute to SF or Alameda)
 - I was surprised to learn LA has a shorter commute than SF
-- I included the gender ratios because at these population levels they should be centered at 1 (see [Appendix A](#app_a) for more analysis)
+- I included the gender ratios because at these population levels they should be centered at 1 (see Appendix A in my notebook for more analysis)
 - California appears to have a fair amount of racial diversity
 - SF population is a lot smaller than I expected
 - Income and IncomePerCap isn't surprising especially regarding SF, Santa Clara, and Fresno
