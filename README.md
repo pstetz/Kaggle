@@ -10,6 +10,8 @@
 
 - (Project) Digit Recognizer ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mnist)) ([Kaggle overview](https://www.kaggle.com/c/digit-recognizer))
 
+- (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
+
 ----
 
 ## In Progress
@@ -23,8 +25,6 @@
 - (Dataset) Flowers Recognition by Alexander Mamaev ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/flowers)) ([Kaggle overview](https://www.kaggle.com/alxmamaev/flowers-recognition))
 
 - (Dataset) Data Science for Good: Kiva Crowdfunding by Kiva ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/kiva)) ([Kaggle overview](https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding))
-
-- (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
 
 ----
