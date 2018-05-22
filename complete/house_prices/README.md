@@ -1,7 +1,7 @@
 | <img src="photos/house.png" alt="House prices as a function of area" style="float:left;"/> | 
 |:--:| 
 
-# High Score: 0.11558
+# Ames Housing Price Predictor ([Kaggle overview](https://www.kaggle.com/c/house-prices-advanced-regression-techniques))
 
 ### Submission
 

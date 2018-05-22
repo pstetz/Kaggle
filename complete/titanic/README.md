@@ -2,7 +2,7 @@
 |:--:| 
 | *The Titanic* |
 
-# High Score: 79.904%
+# Titanic Survival Classification ([Kaggle overview](https://www.kaggle.com/c/titanic/))
 
 A very good starting point for Data Scientists.  A lot of the basics are covered in this project and it's kind of fun learning the history as well!
 

@@ -2,7 +2,7 @@
 |:--:| 
 | *More Georgia and Texas than I was expecting* | 
 
-# US Census Data ([Kaggle link](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
+# US Census Data ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
 This is a folder contains an exploration of the 2015 American Community Survey estimate.
 

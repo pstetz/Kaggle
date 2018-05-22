@@ -1,7 +1,7 @@
 | <img src="photos/doges.png" alt="Sample Doges" style="float:left;"/> | 
 |:--:| 
 
-# [Shelter Animal Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes)
+# Shelter Animal Outcomes ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
 
 ### Submission
 

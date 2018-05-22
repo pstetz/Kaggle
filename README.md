@@ -10,7 +10,7 @@
 
 - (Project) Ghouls, Goblins, and Ghosts... Boo! ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/ghouls)) ([Kaggle overview](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo))
 
-- (Project) Digit Recognizer ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mnist)) ([Kaggle overview](https://www.kaggle.com/c/digit-recognizer))
+- (Project) MNIST Digit Recognizer ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mnist)) ([Kaggle overview](https://www.kaggle.com/c/digit-recognizer))
 
 - (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
