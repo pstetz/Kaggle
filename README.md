@@ -10,7 +10,7 @@
 
 - (Project) Digit Recognizer ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mnist)) ([Kaggle overview](https://www.kaggle.com/c/digit-recognizer))
 
-- (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
+- (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
 ----
 
