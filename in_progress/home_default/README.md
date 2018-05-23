@@ -1,7 +1,7 @@
-| <img src="photos/doges.png" alt="Sample Doges" style="float:left;"/> | 
+| <img src="photos/title.jpg" alt="Title image" style="float:left;"/> | 
 |:--:| 
 
-# Home Credit Default Risk ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
+# Home Credit Default Risk ([Kaggle overview](https://www.kaggle.com/c/home-credit-default-risk))
 
 ### Submission
 
