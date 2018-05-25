@@ -11,7 +11,7 @@ I suggest looking over this notebook before the submission notebook to become fa
 
 This competition includes many datasets each of which has some relationship to the train and test data.  I suggest looking over the following graphic for a minute or so to understand the relationships.
 
-| <img src="photos/data_rels" alt="Dataset Overview and Relationships" style="float:left;"/> | 
+| <img src="photos/data_rels.png" alt="Dataset Overview and Relationships" style="float:left;"/> | 
 |:--:| 
 | *Dataset Overview and Relationships* |
 
