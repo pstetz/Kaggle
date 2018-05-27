@@ -18,8 +18,6 @@
 
 ## In Progress
 
-- (Project) Home Credit Default Risk ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/home_default)) ([Kaggle overview](https://www.kaggle.com/c/home-credit-default-risk))
-
 - (Project) Doge Breed Identification ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/doge)) ([Kaggle overview](https://www.kaggle.com/c/dog-breed-identification))
 
 - (Project) Amazon.com - Employee Access Challenge ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/amazon_employee)) ([Kaggle overview](https://www.kaggle.com/c/amazon-employee-access-challenge))
