@@ -2,6 +2,12 @@
 |:--:| 
 | *More Georgia and Texas than I was expecting* | 
 
+# NOTE: Please redirect [here](https://www.kaggle.com/pstetz/comprehensive-look-at-the-2015-acs-estimate) for updated version
+
+I've moved my attention from this folder to my public kernel on Kaggle.  See... https://www.kaggle.com/pstetz/comprehensive-look-at-the-2015-acs-estimate
+
+This notebook is still respectable however!  It's just might have 1 or 2 grammar mistakes and lack plotly figures!
+
 # US Census Data ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
 This is a folder contains an exploration of the 2015 American Community Survey estimate.
