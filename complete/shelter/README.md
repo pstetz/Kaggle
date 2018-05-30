@@ -3,13 +3,9 @@
 
 # Shelter Animal Outcomes ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
 
-### Submission
+### Full
 
-The submission notebook contains the preprocessing of the data, target predictions, and some analysis
-
-### Analysis
-
-The analysis notebook is a basic overview of the data with no attempt and predicting the target
+This notebook contains both analysis and modeling scripts.  It contains everything you'd like to see
 
 ### Logs
 
