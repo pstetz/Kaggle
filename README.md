@@ -41,6 +41,14 @@ These projects either take up way too much memory or they are computationally ex
 
 ----
 
+## Archive
+
+Contains helpful code templates that I hope to reuse.
+
+- Classification template
+
+----
+
 ## Tutorials (Found under [Kaggle Learn](https://www.kaggle.com/learn/overview))
 
 - Dan B's Machine Learning course ([link](https://www.kaggle.com/learn/machine-learning))
