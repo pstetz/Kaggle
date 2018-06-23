@@ -14,6 +14,8 @@
 
 - (Dataset) US Census Demographic Data ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/census)) ([Kaggle overview](https://www.kaggle.com/muonneutrino/us-census-demographic-data))
 
+- (Dataset) Mussel Watch ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/mussel)) ([Kaggle overview](https://www.kaggle.com/sohier/mussel-watch))
+
 ----
 
 ## In Progress
