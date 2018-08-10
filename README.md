@@ -2,6 +2,8 @@
 
 ## Complete
 
+- (Project) Forest Cover Type ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/Forest-Cover)) ([Kaggle overview](https://www.kaggle.com/c/forest-cover-type-kernels-only))
+
 - (Project) Shelter Animal Outcomes ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/shelter)) ([Kaggle overview](https://www.kaggle.com/c/shelter-animal-outcomes))
 
 - (Project) Titanic: Machine Learning from Disaster ([My code](https://github.com/pstetz/Kaggle/tree/master/complete/titanic)) ([Kaggle overview](https://www.kaggle.com/c/titanic))
