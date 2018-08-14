@@ -18,6 +18,8 @@
 
 ## In Progress
 
+- (Project) Costa Rican Household Poverty Level Prediction ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/costa_rica)) ([Kaggle overview](https://www.kaggle.com/c/costa-rican-household-poverty-prediction))
+
 - (Project) Doge Breed Identification ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/doge)) ([Kaggle overview](https://www.kaggle.com/c/dog-breed-identification))
 
 - (Project) Amazon.com - Employee Access Challenge ([My code](https://github.com/pstetz/Kaggle/tree/master/in_progress/amazon_employee)) ([Kaggle overview](https://www.kaggle.com/c/amazon-employee-access-challenge))
