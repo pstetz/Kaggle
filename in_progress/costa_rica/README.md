@@ -6,4 +6,5 @@ Author: Patrick Stetz  [(github)](https://github.com/pstetz/)
 
  - submission.ipynb: Contains my submission for the challenge.
 
+ - analysis.ipynb: Contains some exploratory data analysis on the dataset.
  
